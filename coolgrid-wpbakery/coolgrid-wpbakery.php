@@ -135,11 +135,6 @@ if ( ! defined( 'ABSPATH' ) ) {
         endwhile;
       endif;
 
-      //$output .= var_dump($q);
-
-
-    
-
       $output .= '</div>';
 
       return $output;                  
